@@ -206,7 +206,8 @@ class _HomeScreenState extends State<HomeScreen> {
                         stopListeningNow();
 
                       try {
-                        await ApiService.getModels();
+                        await ApiService.sendMessage(
+                            message: userInputTextEditingController.text);
                       } catch (error) {
                         print("error $error");
                       }
