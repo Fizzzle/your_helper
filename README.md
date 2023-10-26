@@ -1,16 +1,9 @@
-# virtual_helper
+<h1>Помощник с чатом GPT + DALE</h1>
+<h2>Отправляем запрос в API CHATGPT (если нужен текстовый ответ) \ DALE (если нужна картинка)</h2>
+<h3>Преобразовывает голос в текст</h3>
 
-A new Flutter project.
+**К сожалению**, ответ **сейчас** от ЧАТАГПТ и ДЕЙЛИ не получает сейчас, т.к. АПИ стало платным, **но полностью рабочий прототип если проплатить(тестил)**, но дальше оплачивать жаба душит, пока оставлю в таком виде, в будущем придумаю что то, как минимум получать ответ из Википедии и картинку оттуда, или поборю жадность и буду оплачивать API CHATGPT
 
-## Getting Started
+<img src="https://i.ibb.co/54JxNxX/dale-gpt.jpg" alt="" height=250px>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://i.ibb.co/8Xyc5bw/speech-to-text.jpg" alt="" height=250px>
